@@ -1,5 +1,5 @@
 <section id="basketball">
-        <h2>THIS IS THE EDIT FROM GITHUB"
+        <h2>THIS IS THE EDIT FROM GITHUB"</h2>
         <h2>Basketball</h2>
         <p>
             Basketball is a dynamic game played by two teams of five players. The goal is to score points by shooting the ball through the opponent's hoop. 
