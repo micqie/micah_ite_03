@@ -19,6 +19,7 @@
     </header>
     <section >
         <h2>HOME PAGE</h2>
+        <h1>THE CHANGES</h1>
     <?php 
 
         if (isset($_GET['page'])){
